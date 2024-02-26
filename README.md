@@ -1,7 +1,7 @@
 
 
 [![MasterHead](assets/github-banner.png)](https://github.com/psychovelcro)
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=64FFDA&width=435&lines=If+I+cannot+do+great+things%2C;+I+can+do+small+things+in+a+great+way.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=ffffff&width=435&lines=If+I+cannot+do+great+things%2C;+I+can+do+small+things+in+a+great+way.)](https://git.io/typing-svg)
 <!--
 With over 6 years of experience in software development, I specialize in front-end and back-end technologies. I have a strong passion for technology and science, and have gained a deep understanding of software design principles, design patterns, object-oriented programming, functional programming, domain-driven design, and microservices. I am a versatile individual who is always eager to learn and ready to take on any challenge, whether it be within my country or abroad. My expertise in the field of software engineering has allowed me to develop a highly sought-after skill set. I am confident in my ability to adapt to new technologies and constantly seek ways to expand my knowledge and expertise.
 
